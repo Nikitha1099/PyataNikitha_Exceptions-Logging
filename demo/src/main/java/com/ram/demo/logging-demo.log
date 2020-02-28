@@ -1,0 +1,10 @@
+2020-02-28 15:29:52 DEBUG prog:21 - Enter PrincipalAmount
+
+2020-02-28 15:29:55 INFO  prog:23 - Enter Time
+
+2020-02-28 15:29:58 INFO  prog:25 - Enter Rate
+
+2020-02-28 15:30:00 INFO  prog:29 - Simple Interest is 21.84
+2020-02-28 15:30:00 INFO  prog:30 - 
+
+2020-02-28 15:30:00 INFO  prog:33 - CompoundInterst is 65.90893793525382
